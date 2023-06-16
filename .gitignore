@@ -1,9 +1,19 @@
-# Compiled class file
+c# Compiled class file
 *.class
+*.jar
+*.war
+*.ear
 
+ 
 # Log file
 *.log
 
+# Ignorar directorios y archivos generados por IDEs
+.idea/
+.vscode/
+.gradle/
+/target/
+.metadata/
 # BlueJ files
 *.ctxt
 
